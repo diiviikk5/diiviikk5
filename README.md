@@ -17,22 +17,6 @@
 
 ---
 
-##  Driver Profile
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
-</div>
-
----
-
-##  Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diiviikk5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</div>
-
----
-
 ##  Technical Specs
 
 <div align="center">
@@ -48,6 +32,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=diiviikk5&color=FF2D7A&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/DEVELOPER-DVKK-FF2D7A?style=for-the-badge" />
