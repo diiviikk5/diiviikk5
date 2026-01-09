@@ -1,4 +1,4 @@
-﻿#  NEED FOR SPEED
+#  NEED FOR SPEED
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=200&section=header&text=NEED%20FOR%20SPEED&fontSize=80&fontAlignY=40&fontColor=FF2D7A&stroke=ffffff&strokeWidth=2" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 📈 Track Record
+##  Track Record
 
 <div align="center">
   <img src="https://github.com/diiviikk5/diiviikk5/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
