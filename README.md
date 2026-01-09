@@ -20,7 +20,15 @@
 ##  Driver Profile
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</div>
+
+---
+
+##  Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diiviikk5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 ---

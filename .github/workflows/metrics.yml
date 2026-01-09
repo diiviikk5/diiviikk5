@@ -18,16 +18,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: diiviikk5
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           filename: github-metrics.svg
           output_action: commit
           committer_token: ${{ secrets.GITHUB_TOKEN }}
