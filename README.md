@@ -17,21 +17,16 @@
 
 ---
 
-##  Analytics
+##  Driver Profile
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=radical" alt="Top Langs" height="180" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=radical" alt="GitHub Streak" width="80%" />
+  <!-- Use a different server (Metrics) for better reliability -->
+  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=radical&hide_border=false&border_color=ff2d7a&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=radical&hide_border=false&border_color=ff2d7a" alt="Languages" height="180" />
 </div>
 
----
-
-##  Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diiviikk5&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=radical&hide_border=false&border_color=ff2d7a" alt="Streak" width="80%" />
 </div>
 
 ---
