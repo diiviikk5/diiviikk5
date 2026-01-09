@@ -20,18 +20,17 @@
 ##  Driver Profile
 
 <div align="center">
-  <!-- Use a different server (Metrics) for better reliability -->
-  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=radical&hide_border=false&border_color=ff2d7a&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=radical&hide_border=false&border_color=ff2d7a" alt="Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=radical&cache_seconds=1800" alt="Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=radical&hide_border=false&border_color=ff2d7a" alt="Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=radical&cache_seconds=1800" alt="Streak" width="80%" />
 </div>
 
 ---
 
-##  Stack
+##  Technical Specs
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,electron,tailwind,vercel,github,git,vscode,py,cpp,c,mongodb,postgres,docker,aws" />
@@ -39,7 +38,7 @@
 
 ---
 
-##  Activity
+##  Track Record
 
 <div align="center">
   <img src="https://github.com/diiviikk5/diiviikk5/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
