@@ -19,14 +19,10 @@
 
 ##  Driver Profile
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=radical&cache_seconds=1800" alt="Languages" height="180" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=tokyonight&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=radical&cache_seconds=1800" alt="Streak" width="80%" />
-</div>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=tokyonight)
 
 ---
 
