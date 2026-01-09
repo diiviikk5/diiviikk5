@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://dos.zone/the-need-for-speed-sep-1995/">
-    <img src="https://img.shields.io/badge/PLAY_NFS_1995-FF2D7A?style=for-the-badge&logo=speedtest&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/_PLAY_NFS_1995-FF2D7A?style=for-the-badge&logoColor=white" height="45" />
   </a>
 </div>
 
@@ -19,10 +19,9 @@
 
 ##  Driver Profile
 
-![Stats](https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=tokyonight&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=tokyonight)
+<div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</div>
 
 ---
 
@@ -34,7 +33,7 @@
 
 ---
 
-##  Track Record
+## 📈 Track Record
 
 <div align="center">
   <img src="https://github.com/diiviikk5/diiviikk5/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
