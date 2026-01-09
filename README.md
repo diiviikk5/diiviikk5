@@ -1,4 +1,4 @@
-#  NEED FOR SPEED
+﻿#  NEED FOR SPEED
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=200&section=header&text=NEED%20FOR%20SPEED&fontSize=80&fontAlignY=40&fontColor=FF2D7A&stroke=ffffff&strokeWidth=2" />
@@ -20,10 +20,18 @@
 ##  Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&theme=tokyonight&show_icons=true&hide_border=false&border_color=ff2d7a&bg_color=0a0a0a" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=tokyonight&hide_border=false&border_color=ff2d7a&bg_color=0a0a0a" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&theme=radical&border_color=ff2d7a&bg_color=0a0a0a&title_color=ff2d7a&text_color=ffffff&icon_color=ff2d7a" alt="DVKK GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiviikk5&layout=compact&theme=radical&border_color=ff2d7a&bg_color=0a0a0a&title_color=ff2d7a&text_color=ffffff" alt="Most Used Languages" height="180" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=tokyonight&hide_border=false&border_color=ff2d7a&background=0a0a0a" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&theme=radical&border_color=ff2d7a&background=0a0a0a&stroke=ff2d7a&ring=ff2d7a&fire=ff2d7a&currStreakNum=ff2d7a" alt="DVKK Commit Streak" width="80%" />
+</div>
+
+---
+
+##  Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diiviikk5&theme=radical&border_color=ff2d7a&bg_color=0a0a0a&no-bg=true&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 ---
