@@ -38,6 +38,5 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER-DVKK-FF2D7A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-PERFORMANCE-000000?style=for-the-badge&labelColor=FF2D7A" />
+
 </div>
