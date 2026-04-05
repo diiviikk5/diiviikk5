@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Divik+Arora;Building+fast%2C+useful+developer+tools;Shipping+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=180&section=header&text=%20&fontSize=0&animation=twinkling" alt="Chill banner" />
+</p>
+
+<p align="center">
+  <a href="https://x.com/divikkk1/status/2014030171582713983?s=20">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20play%20mode-0B1220?style=for-the-badge&logoColor=white" alt="Play mode" />
+  </a>
 </p>
 
 ## Projects
