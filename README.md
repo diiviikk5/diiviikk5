@@ -2,21 +2,17 @@
   <img src="./assets/hero.gif" alt="Hollow Knight GIF" width="520" />
 </p>
 
-<p align="center">
-  <a href="https://x.com/divikkk1/status/2014030171582713983?s=20">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20play%20mode-0B1220?style=for-the-badge&logoColor=white" alt="Play mode" />
-  </a>
-</p>
-
 ## Projects
 
-- [Drift](https://github.com/diiviikk5/Drift) - Active project repository.
-- [Nectar](https://github.com/diiviikk5/Nectar) - Active project repository (private).
-- [OpenLVM](https://github.com/diiviikk5/OpenLVM) - Active project repository.
-- [gloader](https://github.com/diiviikk5/gloader) - Active project repository.
-- [dvkcli](https://github.com/diiviikk5/dvkcli) - Active CLI project repository.
-- [Swasthya](https://github.com/diiviikk5/Swasthya) - Active project repository.
-- [NextPlayGames](https://github.com/diiviikk5/Nextplay) - Nothing, I just love games.
+- [Drift](https://github.com/diiviikk5/Drift) - No public description set.
+- [Nectar](https://github.com/diiviikk5/Nectar) - No public description set (private).
+- [OpenLVM](https://github.com/diiviikk5/OpenLVM) - No public description set.
+- [gloader](https://github.com/diiviikk5/gloader) - No public description set.
+- [dvkcli](https://github.com/diiviikk5/dvkcli) - No public description set.
+- [Swasthya](https://github.com/diiviikk5/Swasthya) - No public description set.
+- [NextPlayGames](https://github.com/diiviikk5/Nextplay) - nothing i just love games
+- [Stellar-v1k](https://github.com/diiviikk5/Stellar-v1k) - No public description set.
+- [gladiator](https://github.com/diiviikk5/gladiator) - browser g
 
 ## Articles
 
