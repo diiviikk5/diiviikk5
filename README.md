@@ -1,42 +1,17 @@
-#  Wanna Play Nfs ? , Click the link below . :)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Divik+Kumar;Building+fast%2C+useful+developer+tools;Shipping+ideas+into+real+products" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=200&section=header&text=NEED%20FOR%20SPEED&fontSize=80&fontAlignY=40&fontColor=FF2D7A&stroke=ffffff&strokeWidth=2" />
-  <p align="center">
-    <b> i code </b>
-  </p>
-</div>
+## Projects
 
----
+- [Drift](https://github.com/diiviikk5/Drift) - Lightweight product experiments and rapid iteration builds.
+- [Nectar](https://github.com/diiviikk5/Nectar) - Personal platform project focused on clean UX and execution speed.
+- [OpenLVM](https://github.com/diiviikk5/OpenLVM) - Open-source LVM-focused tooling in active development.
+- [gloader](https://github.com/diiviikk5/gloader) - Fast loader utility with practical CLI-first workflows.
+- [dvkcli](https://github.com/diiviikk5/dvkcli) - My command-line utility playground for daily automation.
+- [Swasthya](https://github.com/diiviikk5/Swasthya) - Health-focused app project and feature prototyping.
+- [NextPlayGames](https://github.com/diiviikk5/Nextplay) - Game-focused project experiments and platform direction.
 
-<div align="center">
-  <a href="https://dos.zone/the-need-for-speed-sep-1995/">
-    <img src="https://img.shields.io/badge/_PLAY_NFS_1995-FF2D7A?style=for-the-badge&logoColor=white" height="45" />
-  </a>
-</div>
+## Articles
 
----
-
-##  Technical Specs
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,electron,tailwind,vercel,github,git,vscode,py,cpp,c,mongodb,postgres,docker,aws" />
-</div>
-
----
-
-##  Track Record
-
-<div align="center">
-  <img src="https://github.com/diiviikk5/diiviikk5/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diiviikk5&color=FF2D7A&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-
-</div>
+- [How I think about building and shipping (X thread)](https://x.com/divikkk1/status/2014030171582713983?s=20)
