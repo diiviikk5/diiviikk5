@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Divik+Kumar;Building+fast%2C+useful+developer+tools;Shipping+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Divik+Arora;Building+fast%2C+useful+developer+tools;Shipping+ideas+into+real+products" alt="Typing SVG" />
 </p>
 
 ## Projects
