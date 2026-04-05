@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=180&section=header&text=%20&fontSize=0&animation=twinkling" alt="Chill banner" />
+  <img src="./assets/hero.gif" alt="Hollow Knight GIF" width="520" />
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ## Projects
 
-- [Drift](https://github.com/diiviikk5/Drift) - Lightweight product experiments and rapid iteration builds.
-- [Nectar](https://github.com/diiviikk5/Nectar) - Personal platform project focused on clean UX and execution speed.
-- [OpenLVM](https://github.com/diiviikk5/OpenLVM) - Open-source LVM-focused tooling in active development.
-- [gloader](https://github.com/diiviikk5/gloader) - Fast loader utility with practical CLI-first workflows.
-- [dvkcli](https://github.com/diiviikk5/dvkcli) - My command-line utility playground for daily automation.
-- [Swasthya](https://github.com/diiviikk5/Swasthya) - Health-focused app project and feature prototyping.
-- [NextPlayGames](https://github.com/diiviikk5/Nextplay) - Game-focused project experiments and platform direction.
+- [Drift](https://github.com/diiviikk5/Drift) - Active project repository.
+- [Nectar](https://github.com/diiviikk5/Nectar) - Active project repository (private).
+- [OpenLVM](https://github.com/diiviikk5/OpenLVM) - Active project repository.
+- [gloader](https://github.com/diiviikk5/gloader) - Active project repository.
+- [dvkcli](https://github.com/diiviikk5/dvkcli) - Active CLI project repository.
+- [Swasthya](https://github.com/diiviikk5/Swasthya) - Active project repository.
+- [NextPlayGames](https://github.com/diiviikk5/Nextplay) - Nothing, I just love games.
 
 ## Articles
 
