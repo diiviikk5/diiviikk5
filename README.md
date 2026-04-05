@@ -11,8 +11,8 @@
 - [dvkcli](https://github.com/diiviikk5/dvkcli) - Personal Pocket GPT (Qwen!).
 - [Swasthya](https://github.com/diiviikk5/Swasthya) - The landing page won me 2 hackathons.
 - [NextPlayGames](https://github.com/diiviikk5/Nextplay) - I love games, so a game tracker.
-- [Stellar-v1k](https://github.com/diiviikk5/Stellar-v1k) - No public description set.
-- [gladiator](https://github.com/diiviikk5/gladiator) - browser g
+- [Stellar-v1k](https://github.com/diiviikk5/Stellar-v1k) - Gnss satelite Model Training 
+- [gladiator](https://github.com/diiviikk5/gladiator) - Browser games on dsa
 
 ## Articles
 
