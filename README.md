@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" alt="Hollow Knight GIF" width="520" />
+  <img src="https://www.threads.com/@glimjii/post/DN09eoTWiFu/media" width="520" />
 </p>
 
 ## Projects
