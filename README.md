@@ -15,5 +15,5 @@
 - [gladiator](https://github.com/diiviikk5/gladiator) - Browser games on dsa
 
 ## Articles
-
+-  The State of Game Piracy (X) (https://x.com/divikkk1/status/2056294874572587370?s=20)
 - [How I think about building and shipping (X thread)](https://x.com/divikkk1/status/2014030171582713983?s=20)
