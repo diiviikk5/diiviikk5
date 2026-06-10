@@ -2,6 +2,9 @@
   <img src="assets/hero.gif" width="520" />
 </p>
 
+## Selected Open Source Contributions
+ 
+
 ## Projects
 
 - [Drift](https://github.com/diiviikk5/Drift) - Desktop Screen Recorder with Cursor Zoom (Rust, Tauri and JS).
