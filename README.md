@@ -3,7 +3,19 @@
 </p>
 
 ## Selected Open Source Contributions
- 
+
+- **[mofa-org/mofa](https://github.com/mofa-org/mofa)**
+  - [#486](https://github.com/mofa-org/mofa/pull/486): Implement Agent testing framework (`mofa-testing`)
+  - [#888](https://github.com/mofa-org/mofa/pull/888): Add failure injection, sequenced responses, rate limiting, and `MockClock`
+  - [#895](https://github.com/mofa-org/mofa/pull/895): Add test report generator with builder and custom formatters
+  - [#1573](https://github.com/mofa-org/mofa/pull/1573): Add JUnit formatter for `TestReport`
+  - [#1084](https://github.com/mofa-org/mofa/pull/1084): Add `TestReport::merge()` to aggregate suite test results
+  - [#1029](https://github.com/mofa-org/mofa/pull/1029) & [#1030](https://github.com/mofa-org/mofa/pull/1030): Add assertion macros and helper methods for Mock verification (`last_call`, `nth_call`)
+
+- **[mofa-org/mofaclaw](https://github.com/mofa-org/mofaclaw)**
+  - [#90](https://github.com/mofa-org/mofaclaw/pull/90): Implement Pull Request review skill
+  - [#70](https://github.com/mofa-org/mofaclaw/pull/70): Implement GitHub CI/CD status view Discord slash commands
+  - [#3](https://github.com/mofa-org/mofaclaw/pull/3), [#4](https://github.com/mofa-org/mofaclaw/pull/4), [#6](https://github.com/mofa-org/mofaclaw/pull/6), [#8](https://github.com/mofa-org/mofaclaw/pull/8): Performance optimizations (caching regexes via `LazyLock`, optimizing directory traversal syscalls, refactoring unsafe unwraps)
 
 ## Projects
 
