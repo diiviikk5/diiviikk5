@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/hero.gif" width="520" />
-</p>
+
 
 ### Hi, I'm Divik 👋
 
