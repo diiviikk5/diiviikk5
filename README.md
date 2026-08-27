@@ -7,7 +7,7 @@
 I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 -  **6x Hackathon Wins**
--  **2x Superteam Grants** recipient for [**Xeus**](https://github.com/diiviikk5/Xeus) and [**OpenLVM**](https://github.com/diiviikk5/OpenLVM)
+-  **2x Superteam Grants**  for [**Xeus**](https://github.com/diiviikk5/Xeus) and [**OpenLVM**](https://github.com/diiviikk5/OpenLVM)
 
 ---
 
