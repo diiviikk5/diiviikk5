@@ -19,7 +19,7 @@
 
 ## Projects
 
-###  AI, Agents & DevTools
+### 🤖 AI, Agents & DevTools
 - [Xeus](https://github.com/diiviikk5/Xeus) - Browser-native playground & IDE for building, testing, and deploying Solana AI agents with zero local setup (TypeScript, Next.js).
 - [Tazent](https://github.com/diiviikk5/Tazent) - Sentry for browser agents: real-time crash telemetry, visual step replays, and AI failure summaries (TypeScript).
 - [OpenLVM](https://github.com/diiviikk5/OpenLVM) - Agent runtime and testing harness built around a Zig core and Python operator layer.
@@ -33,7 +33,7 @@
 - [hpot](https://github.com/diiviikk5/hpot) - AI-powered honeypot system that engages scammers via autonomous agents to extract threat intel (Python).
 - [Parallel-You](https://github.com/diiviikk5/Parallel-You) - Next-generation AI chat platform with customizable AI personas (JavaScript, Vite).
 
-###  Systems, Desktop & Low-Level
+### 🖥️ Systems, Desktop & Low-Level
 - [Drift](https://github.com/diiviikk5/Drift) - Desktop screen recorder with cinematic auto-zoom, webcam overlay, and timeline editing (Rust, Tauri, Next.js).
 - [Muks](https://github.com/diiviikk5/Muks) - Living, intelligent desktop shell for Windows 11 with biome transitions (Rust).
 - [Muks-TUI](https://github.com/diiviikk5/Muks-TUI) - Windows desktop customization control plane orchestrating Lively Wallpaper, Rainmeter, YASB, and Komorebi (Rust).
@@ -42,14 +42,14 @@
 - [ricedl](https://github.com/diiviikk5/ricedl) - Fast CLI file downloader and archive extractor with a BubbleTea TUI (Go).
 - [Comio](https://github.com/diiviikk5/Comio) - Desktop comic reader integrated with the Internet Archive library (Python).
 
-###  Gaming & Interactive Simulators
+### 🎮 Gaming & Interactive Simulators
 - [gladiator](https://github.com/diiviikk5/gladiator) - AlgoGladiator: Gamified competitive programming platform combining DSA battles with real-time multiplayer (JavaScript).
 - [Poor-mans-mech](https://github.com/diiviikk5/Poor-mans-mech) - MECHASM: Zero-dependency mechanical keyboard simulator with enthusiast switch acoustics and 3D rendering (JavaScript).
 - [Inception](https://github.com/diiviikk5/Inception) - Omnichain NFT battle gaming arena with diverse mechanics (JavaScript).
 - [Nextplay](https://github.com/diiviikk5/Nextplay) - Upcoming games tracker, tier lists, and gaming news hub (JavaScript).
 - [medisin-hackathon](https://github.com/diiviikk5/medisin-hackathon) - MediSIN: Satirical medical game with chaotic puzzle challenges (JavaScript).
 
-### Web Apps, Web3 & Analytics
+### 🌐 Web Apps, Web3 & Analytics
 - [Gaia](https://github.com/diiviikk5/Gaia) - Solana web3 terminal and interface (TypeScript).
 - [kstrack](https://github.com/diiviikk5/kstrack) - KsTracker: High-performance live trading signal tracking app with Binance price integration (TypeScript).
 - [Swasthya](https://github.com/diiviikk5/Swasthya) - Holistic health tracker blending ancient Ayurvedic wellness with modern AI (JavaScript).
