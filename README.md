@@ -2,6 +2,15 @@
   <img src="assets/hero.gif" width="520" />
 </p>
 
+### Hi, I'm Divik 👋
+
+I enjoy building projects across **AI**, the **Web**, and **On chain**.
+
+-  **6x Hackathon Winner**
+-  **2x Superteam Grants** recipient for [**Xeus**](https://github.com/diiviikk5/Xeus) and [**OpenLVM**](https://github.com/diiviikk5/OpenLVM)
+
+---
+
 ## Selected Open Source Contributions
 
 - **[mofa-org/mofa](https://github.com/mofa-org/mofa)**
