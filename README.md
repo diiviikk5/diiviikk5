@@ -8,10 +8,10 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 ---
 
-### 👁️ Profile Views
+### Profile Views
 
 <p align="left">
-  <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-vivi&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" height="36" />
+  <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-vivi&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" />
 </p>
 
 ---
