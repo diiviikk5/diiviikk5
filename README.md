@@ -1,3 +1,4 @@
+
 ### Hi, I'm Divik 👋
 
 I enjoy building projects across **AI**, the **Web**, and **On chain**.
@@ -5,10 +6,12 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 - **6x Hackathon Wins**
 - **2x Superteam Grants** for [**Xeus**](https://github.com/diiviikk5/Xeus) and [**OpenLVM**](https://github.com/diiviikk5/OpenLVM)
 
-<br/>
+---
+
+### 👁️ Profile Views
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@diiviikk5?theme=booru-vivi" alt="diiviikk5 profile views" />
+  <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-vivi&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" height="36" />
 </p>
 
 ---
@@ -72,3 +75,4 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 ## Articles
 - [The State of Game Piracy (X)](https://x.com/divikkk1/status/2056294874572587370?s=20)
 - [How I think about building and shipping (X thread)](https://x.com/divikkk1/status/2014030171582713983?s=20)
+```
