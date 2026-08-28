@@ -1,4 +1,3 @@
-
 ### Hi, I'm Divik 👋
 
 I enjoy building projects across **AI**, the **Web**, and **On chain**.
@@ -11,7 +10,7 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 ### Profile Views
 
 <p align="left">
-  <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" />
+  <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" />
 </p>
 
 ---
@@ -75,4 +74,3 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 ## Articles
 - [The State of Game Piracy (X)](https://x.com/divikkk1/status/2056294874572587370?s=20)
 - [How I think about building and shipping (X thread)](https://x.com/divikkk1/status/2014030171582713983?s=20)
-```
