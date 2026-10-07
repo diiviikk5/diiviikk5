@@ -13,7 +13,7 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
   <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" />
 </p>
 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+---
 
 ### MAIN
 
@@ -40,7 +40,7 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
   </tr>
 </table>
 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+---
 
 ### OPEN SOURCE
 
@@ -49,7 +49,7 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 **[mofa-org/mofaclaw](https://github.com/mofa-org/mofaclaw)**: [#90](https://github.com/mofa-org/mofaclaw/pull/90) · [#70](https://github.com/mofa-org/mofaclaw/pull/70) · [#3](https://github.com/mofa-org/mofaclaw/pull/3) · [#4](https://github.com/mofa-org/mofaclaw/pull/4) · [#6](https://github.com/mofa-org/mofaclaw/pull/6) · [#8](https://github.com/mofa-org/mofaclaw/pull/8)
 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+---
 
 ### ARCHIVE
 
@@ -117,7 +117,7 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 </details>
 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+---
 
 ### STATS
 
@@ -130,11 +130,9 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diiviikk5&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=0" alt="activity graph" />
 </p>
 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+---
 
 ### WRITING
 
 - [The State of Game Piracy](https://x.com/divikkk1/status/2056294874572587370?s=20)
 - [How I think about building and shipping](https://x.com/divikkk1/status/2014030171582713983?s=20)
-
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
