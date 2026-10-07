@@ -53,9 +53,9 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 ### ARCHIVE
 
+<details>
+<summary><b>AI / Agents / DevTools</b> (10)</summary>
 <br/>
-
-**AI / AGENTS / DEVTOOLS**
 
 <table>
   <tr>
@@ -120,9 +120,11 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
   </tr>
 </table>
 
-<br/>
+</details>
 
-**SYSTEMS / DESKTOP / LOW-LEVEL**
+<details>
+<summary><b>Systems / Desktop / Low-level</b> (6)</summary>
+<br/>
 
 <table>
   <tr>
@@ -161,9 +163,11 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
   </tr>
 </table>
 
-<br/>
+</details>
 
-**GAMES / SIMULATORS**
+<details>
+<summary><b>Games / Simulators</b> (5)</summary>
+<br/>
 
 <table>
   <tr>
@@ -198,9 +202,11 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
   </tr>
 </table>
 
-<br/>
+</details>
 
-**WEB / WEB3 / ANALYTICS**
+<details>
+<summary><b>Web / Web3 / Analytics</b> (7)</summary>
+<br/>
 
 <table>
   <tr>
@@ -248,13 +254,15 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
   </tr>
 </table>
 
+</details>
+
 ---
 
 ### STATS
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" alt="stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&background=00000000&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNum=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&border=00000000" alt="streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github" alt="stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=00000000" alt="streak" />
 </p>
 
 ---
