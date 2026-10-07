@@ -1,42 +1,38 @@
-<pre align="center">
- ░▒▓███████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
- ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
- ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒▒▓█▓▒░ ░▒▓█▓▒░▒▓█▓▒░
- ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░  ░▒▓██▓▒░    ░▒▓██▓▒░
- ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒▒▓█▓▒░  ░▒▓█▓▒░
- ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░
- ░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░
-</pre>
+### Hi, I'm Divik
 
-<p align="center">
-<code>ai · web · on-chain</code><br/>
-<code>6x hackathon wins · 2x superteam grants</code>
+I enjoy building projects across **AI**, the **Web**, and **On chain**.
+
+- **6x Hackathon Wins**
+- **2x Superteam Grants** for [**Xeus**](https://github.com/diiviikk5/Xeus) and [**OpenLVM**](https://github.com/diiviikk5/OpenLVM)
+
+---
+
+### Profile Views
+
+<p align="left">
+  <img src="https://count.getloli.com/@diiviikk5?name=diiviikk5&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" alt="diiviikk5 profile views" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=diiviikk5&style=flat-square&color=000000&label=views&labelColor=ffffff" alt="views" />
-</p>
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
 
-```
-░▒▓█▓▒░░▒▓█▓▒░ MAIN ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█
-```
+### MAIN
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>[ 01 ] <a href="https://github.com/diiviikk5/Xeus">Xeus</a></h3>
+      <h4>[01] <a href="https://github.com/diiviikk5/Xeus">Xeus</a></h4>
       <code>TypeScript · Next.js · Solana</code>
       <p>Browser-native IDE to build, test and deploy Solana AI agents. Zero local setup.</p>
       <b>superteam grant</b>
     </td>
     <td width="33%" valign="top">
-      <h3>[ 02 ] <a href="https://github.com/diiviikk5/OpenLVM">OpenLVM</a></h3>
+      <h4>[02] <a href="https://github.com/diiviikk5/OpenLVM">OpenLVM</a></h4>
       <code>Zig · Python</code>
       <p>Agent runtime and testing harness. Zig core, Python operator layer.</p>
       <b>superteam grant</b>
     </td>
     <td width="33%" valign="top">
-      <h3>[ 03 ] <a href="https://github.com/diiviikk5/Tazent">Tazent</a></h3>
+      <h4>[03] <a href="https://github.com/diiviikk5/Tazent">Tazent</a></h4>
       <code>TypeScript</code>
       <p>Sentry for browser agents. Crash telemetry, visual step replays, AI failure summaries.</p>
       <b>telemetry</b>
@@ -44,18 +40,18 @@
   </tr>
 </table>
 
-```
-░▒▓█▓▒░░▒▓█▓▒░ OPEN SOURCE ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓
-```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+
+### OPEN SOURCE
 
 **[mofa-org/mofa](https://github.com/mofa-org/mofa)**: agent testing framework (`mofa-testing`)
 [#486](https://github.com/mofa-org/mofa/pull/486) · [#888](https://github.com/mofa-org/mofa/pull/888) · [#895](https://github.com/mofa-org/mofa/pull/895) · [#1573](https://github.com/mofa-org/mofa/pull/1573) · [#1084](https://github.com/mofa-org/mofa/pull/1084) · [#1029](https://github.com/mofa-org/mofa/pull/1029) · [#1030](https://github.com/mofa-org/mofa/pull/1030)
 
 **[mofa-org/mofaclaw](https://github.com/mofa-org/mofaclaw)**: [#90](https://github.com/mofa-org/mofaclaw/pull/90) · [#70](https://github.com/mofa-org/mofaclaw/pull/70) · [#3](https://github.com/mofa-org/mofaclaw/pull/3) · [#4](https://github.com/mofa-org/mofaclaw/pull/4) · [#6](https://github.com/mofa-org/mofaclaw/pull/6) · [#8](https://github.com/mofa-org/mofaclaw/pull/8)
 
-```
-░▒▓█▓▒░░▒▓█▓▒░ ARCHIVE ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
-```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+
+### ARCHIVE
 
 <details>
 <summary><code>[+] ai / agents / devtools (9)</code></summary>
@@ -121,9 +117,9 @@
 
 </details>
 
-```
-░▒▓█▓▒░░▒▓█▓▒░ STATS ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓
-```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+
+### STATS
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" alt="stats" />
@@ -134,13 +130,11 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diiviikk5&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=0" alt="activity graph" />
 </p>
 
-```
-░▒▓█▓▒░░▒▓█▓▒░ WRITING ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
-```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+
+### WRITING
 
 - [The State of Game Piracy](https://x.com/divikkk1/status/2056294874572587370?s=20)
 - [How I think about building and shipping](https://x.com/divikkk1/status/2014030171582713983?s=20)
 
-```
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░
-```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
