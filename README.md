@@ -258,15 +258,6 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 ---
 
-### STATS
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&hide_border=false&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github" alt="stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff" alt="streak" />
-</p>
-
----
-
 ### WRITING
 
 - [The State of Game Piracy](https://x.com/divikkk1/status/2056294874572587370?s=20)
