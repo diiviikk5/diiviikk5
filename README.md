@@ -32,10 +32,10 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
       <b>superteam grant</b>
     </td>
     <td width="33%" valign="top">
-      <h4>[03] <a href="https://github.com/diiviikk5/Tazent">Tazent</a></h4>
-      <code>TypeScript</code>
-      <p>Sentry for browser agents. Crash telemetry, visual step replays, AI failure summaries.</p>
-      <b>telemetry</b>
+      <h4>[03] <a href="https://github.com/diiviikk5/Drift">Drift</a></h4>
+      <code>Rust · Tauri · Next.js</code>
+      <p>Desktop screen recorder with cinematic auto-zoom, webcam overlay, and timeline editing.</p>
+      <b>desktop</b>
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 ### ARCHIVE
 
 <details>
-<summary><code>[+] ai / agents / devtools (9)</code></summary>
+<summary><code>[+] ai / agents / devtools (10)</code></summary>
 <br/>
 
 | project | what | stack |
@@ -68,16 +68,16 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 | [but-are-you-a-human](https://github.com/diiviikk5/but-are-you-a-human) | visual sandbox for agent access policies | JSON |
 | [hpot](https://github.com/diiviikk5/hpot) | honeypot that engages scammers for threat intel | Python |
 | [Parallel-You](https://github.com/diiviikk5/Parallel-You) | AI chat with custom personas | JS |
+| [Tazent](https://github.com/diiviikk5/Tazent) | Sentry for browser agents: crash telemetry and replays | TS |
 
 </details>
 
 <details>
-<summary><code>[+] systems / desktop / low-level (7)</code></summary>
+<summary><code>[+] systems / desktop / low-level (6)</code></summary>
 <br/>
 
 | project | what | stack |
 |---|---|---|
-| [Drift](https://github.com/diiviikk5/Drift) | screen recorder with auto-zoom and timeline | Rust, Tauri |
 | [Muks](https://github.com/diiviikk5/Muks) | living desktop shell for Windows 11 | Rust |
 | [Muks-TUI](https://github.com/diiviikk5/Muks-TUI) | control plane for Lively, Rainmeter, YASB, Komorebi | Rust |
 | [Boltv1](https://github.com/diiviikk5/Boltv1) | zero-bloat CLI game launcher | Rust |
