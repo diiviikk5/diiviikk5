@@ -15,27 +15,27 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 ---
 
-### MAIN
+### HIGHLIGHT PROJECTS
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>[01] <a href="https://github.com/diiviikk5/Xeus">Xeus</a></h4>
-      <code>TypeScript · Next.js · Solana</code>
-      <p>Browser-native IDE to build, test and deploy Solana AI agents. Zero local setup.</p>
-      <b>superteam grant</b>
-    </td>
-    <td width="33%" valign="top">
-      <h4>[02] <a href="https://github.com/diiviikk5/OpenLVM">OpenLVM</a></h4>
-      <code>Zig · Python</code>
-      <p>Agent runtime and testing harness. Zig core, Python operator layer.</p>
-      <b>superteam grant</b>
-    </td>
-    <td width="33%" valign="top">
-      <h4>[03] <a href="https://github.com/diiviikk5/Drift">Drift</a></h4>
+      <h3><a href="https://github.com/diiviikk5/Drift">Drift</a></h3>
       <code>Rust · Tauri · Next.js</code>
       <p>Desktop screen recorder with cinematic auto-zoom, webcam overlay, and timeline editing.</p>
-      <b>desktop</b>
+      <b>#5 on Product Hunt</b>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/diiviikk5/Xeus">Xeus</a></h3>
+      <code>TypeScript · Next.js · Solana</code>
+      <p>Browser-native IDE to build, test and deploy Solana AI agents. Zero local setup.</p>
+      <b>Superteam grant</b>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/diiviikk5/OpenLVM">OpenLVM</a></h3>
+      <code>Zig · Python</code>
+      <p>Agent runtime and testing harness. Zig core, Python operator layer.</p>
+      <b>Superteam grant</b>
     </td>
   </tr>
 </table>
@@ -53,69 +53,200 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 ### ARCHIVE
 
-<details>
-<summary><code>[+] ai / agents / devtools (10)</code></summary>
 <br/>
 
-| project | what | stack |
-|---|---|---|
-| [Aegtion](https://github.com/diiviikk5/Aegtion) | local-first workflow runner with approval steps | JS |
-| [Agent-Dih](https://github.com/diiviikk5/Agent-Dih) | agents that judge UX like a specific user | JS |
-| [The-Smooth-Operator](https://github.com/diiviikk5/The-Smooth-Operator) | cold outreach engine, personalized emails | Python |
-| [rezops](https://github.com/diiviikk5/rezops) | Claude Code skills + headless browser | TS |
-| [dvkcli](https://github.com/diiviikk5/dvkcli) | local terminal AI assistant on Ollama | Go |
-| [Project-SS](https://github.com/diiviikk5/Project-SS) | SarkariSaathi: voice agent for govt services | JS |
-| [but-are-you-a-human](https://github.com/diiviikk5/but-are-you-a-human) | visual sandbox for agent access policies | JSON |
-| [hpot](https://github.com/diiviikk5/hpot) | honeypot that engages scammers for threat intel | Python |
-| [Parallel-You](https://github.com/diiviikk5/Parallel-You) | AI chat with custom personas | JS |
-| [Tazent](https://github.com/diiviikk5/Tazent) | Sentry for browser agents: crash telemetry and replays | TS |
+**AI / AGENTS / DEVTOOLS**
 
-</details>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Tazent">Tazent</a></h4>
+      <code>TypeScript</code><br/>
+      Sentry for browser agents: crash telemetry and replays.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Aegtion">Aegtion</a></h4>
+      <code>JavaScript</code><br/>
+      Local-first workflow runner with approval steps.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Agent-Dih">Agent-Dih</a></h4>
+      <code>JavaScript</code><br/>
+      Agents that judge UX like a specific user.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/The-Smooth-Operator">The-Smooth-Operator</a></h4>
+      <code>Python</code><br/>
+      Cold outreach engine with personalized emails.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/rezops">rezops</a></h4>
+      <code>TypeScript</code><br/>
+      Claude Code skills and a headless browser.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/dvkcli">dvkcli</a></h4>
+      <code>Go</code><br/>
+      Local terminal AI assistant on Ollama.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Project-SS">Project-SS</a></h4>
+      <code>JavaScript</code><br/>
+      SarkariSaathi: voice agent for government services.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/but-are-you-a-human">but-are-you-a-human</a></h4>
+      <code>JSON</code><br/>
+      Visual sandbox for agent access policies.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/hpot">hpot</a></h4>
+      <code>Python</code><br/>
+      Honeypot that engages scammers for threat intel.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Parallel-You">Parallel-You</a></h4>
+      <code>JavaScript</code><br/>
+      AI chat with custom personas.
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
 
-<details>
-<summary><code>[+] systems / desktop / low-level (6)</code></summary>
 <br/>
 
-| project | what | stack |
-|---|---|---|
-| [Muks](https://github.com/diiviikk5/Muks) | living desktop shell for Windows 11 | Rust |
-| [Muks-TUI](https://github.com/diiviikk5/Muks-TUI) | control plane for Lively, Rainmeter, YASB, Komorebi | Rust |
-| [Boltv1](https://github.com/diiviikk5/Boltv1) | zero-bloat CLI game launcher | Rust |
-| [gloader](https://github.com/diiviikk5/gloader) | fast custom game launcher | - |
-| [ricedl](https://github.com/diiviikk5/ricedl) | CLI downloader and extractor with TUI | Go |
-| [Comio](https://github.com/diiviikk5/Comio) | desktop comic reader on the Internet Archive | Python |
+**SYSTEMS / DESKTOP / LOW-LEVEL**
 
-</details>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Muks">Muks</a></h4>
+      <code>Rust</code><br/>
+      Living desktop shell for Windows 11.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Muks-TUI">Muks-TUI</a></h4>
+      <code>Rust</code><br/>
+      Control plane for Lively, Rainmeter, YASB, Komorebi.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Boltv1">Boltv1</a></h4>
+      <code>Rust</code><br/>
+      Zero-bloat CLI game launcher.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/gloader">gloader</a></h4>
+      <code>-</code><br/>
+      Fast custom game launcher.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/ricedl">ricedl</a></h4>
+      <code>Go</code><br/>
+      CLI downloader and extractor with TUI.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Comio">Comio</a></h4>
+      <code>Python</code><br/>
+      Desktop comic reader on the Internet Archive.
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><code>[+] games / simulators (5)</code></summary>
 <br/>
 
-| project | what | stack |
-|---|---|---|
-| [gladiator](https://github.com/diiviikk5/gladiator) | DSA battles with real-time multiplayer | JS |
-| [Poor-mans-mech](https://github.com/diiviikk5/Poor-mans-mech) | mechanical keyboard simulator | JS |
-| [Inception](https://github.com/diiviikk5/Inception) | omnichain NFT battle arena | JS |
-| [Nextplay](https://github.com/diiviikk5/Nextplay) | upcoming games tracker and tier lists | JS |
-| [medisin-hackathon](https://github.com/diiviikk5/medisin-hackathon) | satirical medical puzzle game | JS |
+**GAMES / SIMULATORS**
 
-</details>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/gladiator">gladiator</a></h4>
+      <code>JavaScript</code><br/>
+      DSA battles with real-time multiplayer.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Poor-mans-mech">Poor-mans-mech</a></h4>
+      <code>JavaScript</code><br/>
+      Mechanical keyboard simulator.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Inception">Inception</a></h4>
+      <code>JavaScript</code><br/>
+      Omnichain NFT battle arena.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Nextplay">Nextplay</a></h4>
+      <code>JavaScript</code><br/>
+      Upcoming games tracker and tier lists.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/medisin-hackathon">medisin-hackathon</a></h4>
+      <code>JavaScript</code><br/>
+      Satirical medical puzzle game.
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
 
-<details>
-<summary><code>[+] web / web3 / analytics (7)</code></summary>
 <br/>
 
-| project | what | stack |
-|---|---|---|
-| [Gaia](https://github.com/diiviikk5/Gaia) | Solana web3 terminal | TS |
-| [kstrack](https://github.com/diiviikk5/kstrack) | live trading signal tracker | TS |
-| [Swasthya](https://github.com/diiviikk5/Swasthya) | Ayurveda x AI health tracker | JS |
-| [sleep-tracker](https://github.com/diiviikk5/sleep-tracker) | sleep and recovery recommendations | Python |
-| [Stellar-v1k](https://github.com/diiviikk5/Stellar-v1k) | GNSS satellite model training | JS |
-| [Argus](https://github.com/diiviikk5/Argus) | real-time monitoring platform | Next.js |
-| [Prosthetic](https://github.com/diiviikk5/Prosthetic) | interactive web app | Next.js |
+**WEB / WEB3 / ANALYTICS**
 
-</details>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Gaia">Gaia</a></h4>
+      <code>TypeScript</code><br/>
+      Solana web3 terminal.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/kstrack">kstrack</a></h4>
+      <code>TypeScript</code><br/>
+      Live trading signal tracker.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Swasthya">Swasthya</a></h4>
+      <code>JavaScript</code><br/>
+      Ayurveda x AI health tracker.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/sleep-tracker">sleep-tracker</a></h4>
+      <code>Python</code><br/>
+      Sleep and recovery recommendations.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Stellar-v1k">Stellar-v1k</a></h4>
+      <code>JavaScript</code><br/>
+      GNSS satellite model training.
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Argus">Argus</a></h4>
+      <code>Next.js</code><br/>
+      Real-time monitoring platform.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/diiviikk5/Prosthetic">Prosthetic</a></h4>
+      <code>Next.js</code><br/>
+      Interactive web app.
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
@@ -124,10 +255,6 @@ I enjoy building projects across **AI**, the **Web**, and **On chain**.
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diiviikk5&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" alt="stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diiviikk5&background=00000000&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNum=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&border=00000000" alt="streak" />
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diiviikk5&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=0" alt="activity graph" />
 </p>
 
 ---
