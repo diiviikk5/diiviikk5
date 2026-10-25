@@ -1,4 +1,4 @@
-### Hi, I'm Divik
+![Hi, I'm Divik](https://piixpal.dvkk.dev/readme?text=Hi,%20I%27m%20Divik&pals=bitbug)
 
 I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
