@@ -1,5 +1,5 @@
 
-
+![Hi, I'm Divik](https://piixpal.dvkk.dev/readme?text=Hi,%20I%27m%20Divik&pals=bitbug&repo=diiviikk5/piixpal&theme=paper)
 I enjoy building projects across **AI**, the **Web**, and **On chain**.
 
 - **6x Hackathon Wins**
